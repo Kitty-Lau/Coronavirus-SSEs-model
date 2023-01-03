@@ -1,0 +1,2 @@
+mean_incubation,std_incubation,percent,prior_size,true_size,date_until,max_time_span,num_infer_incubation,mode_add_size,add_size_50,add_size_2_5,add_size_97_5,mean_incubation_50,mean_incubation_2_5,mean_incubation_97_5,std_incubation_50,std_incubation_2_5,std_incubation_97_5
+3.39552291,7.67653107,0.393054751,50,200,1.07102223234225,103,79,75,81.348592093368,49.4910381634747,122.942860109153,2.67977096358983,1.76671744149383,3.78476670370584,6.12560810748611,3.31655949785949,10.5371011332005
